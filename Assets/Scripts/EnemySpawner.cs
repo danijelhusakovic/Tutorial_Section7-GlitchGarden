@@ -28,11 +28,7 @@ public class EnemySpawner : MonoBehaviour {
 		//n seconds, and not: seen every n seconds per lane. if for lizard it's 5 seconds. there will be one lizard every
 		//5 seconds in the ENTIRE playspace!
 
-		if (Random.value < threshold) {
-			return true;
-		} else {
-			return false;
-		}
+		return (Random.value < threshold);
 	}
 
 	void Spawn(GameObject myGameObject){

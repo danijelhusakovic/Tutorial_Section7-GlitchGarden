@@ -12,7 +12,7 @@ public class StarDisplay : MonoBehaviour {
 
 	void Start(){
 		starText = GetComponent<Text>();
-		NumberOfStars = 100;
+		NumberOfStars = 1000;
 		UpdateDisplay ();
 	}
 
