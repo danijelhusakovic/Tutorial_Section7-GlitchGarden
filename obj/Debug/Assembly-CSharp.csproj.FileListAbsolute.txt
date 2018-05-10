@@ -1,1 +1,12 @@
 C:\Users\Will\Documents\repos\06. Glitch Garden\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\obj\Debug\Assembly-CSharp.dll
+C:\Users\Will\Documents\repos\06. Glitch Garden\obj\Debug\Assembly-CSharp.pdb
