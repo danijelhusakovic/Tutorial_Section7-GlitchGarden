@@ -1,12 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Stone.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StarDisplay.cs">
     <Files>
-      <File FileName="Assets\Scripts\LoseCollider.cs" Line="13" Column="26" />
-      <File FileName="Assets\Scripts\GameTimer.cs" Line="39" Column="24" />
-      <File FileName="Assets\Scripts\StarDisplay.cs" Line="15" Column="23" />
-      <File FileName="Assets\Scripts\EnemySpawner.cs" Line="25" Column="4" />
-      <File FileName="Assets\Scripts\Stone.cs" Line="20" Column="45" />
+      <File FileName="Assets\Scripts\Button.cs" Line="19" Column="79" />
+      <File FileName="Assets\Scripts\StarDisplay.cs" Line="15" Column="21" />
+      <File FileName="Assets\Scripts\Attacker.cs" Line="24" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
