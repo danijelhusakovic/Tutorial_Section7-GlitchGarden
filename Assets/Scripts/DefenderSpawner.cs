@@ -17,10 +17,12 @@ public class DefenderSpawner : MonoBehaviour {
 		}
 	}
 
-	void OnMouseDown() {
+	void OnMouseDown() 
+	{
 		Vector2 rawPosition = CalculateWorldPointOfMouseClick ();
 		Vector2 snappedPosition = SnapToGrid (rawPosition);
 		GameObject defender = Button.selectedDefender;
+        if (defender == null) { return; }
 
 
 		int defenderCost = defender.GetComponent<Defender> ().starCost;
